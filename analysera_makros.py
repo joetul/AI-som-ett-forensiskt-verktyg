@@ -7,7 +7,7 @@ from oletools.olevba import VBA_Parser
 
 # OpenAI API nyckel
 api_nyckel = ""
-nyckel = OpenAI(api_nyckel=api_nyckel)  
+nyckel = OpenAI(api_key=api_nyckel)  
 
 # Mapp där .docm filerna är sparade
 mapp = ""
