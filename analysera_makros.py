@@ -16,7 +16,7 @@ mapp = ""
 destinations_mapp = ""
 
 # Fil för svaren
-output_fil_path = os.path.join(mapp, "")
+output_fil_path = os.path.join(mapp, "alla_svar.txt")
 
 while True:
     # Hitta alla .doc filer
